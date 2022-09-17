@@ -1,3 +1,12 @@
+/*
+Guessing Game by Avighnash Kumar. 9/16/22.
+Guess a random number between 1-100 in as few tries as possible.
+
+1. No global variables.
+2. No strings. Not ever.
+3. You should include iostream not stdio.
+4. You should avoid using a mouse when possible. Learn shortcuts.
+*/
 #include <iostream>
 
 using namespace std;
